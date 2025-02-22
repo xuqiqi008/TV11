@@ -116,8 +116,7 @@ BTV-重温经典,http://192.168.2.11:35455/bptv/10000100000000050000000003887494
 上海,#genre#
 
 
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://logo.doube.eu.org/动漫秀场.png" group-title="SiTV频道",SiTV动漫秀场_7M1080_百视通
-http://167.234.221.213:50001/5000000011000031113/bestzb/index.m3u8
+动漫秀场http://167.234.221.213:50001/5000000011000031113/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://logo.doube.eu.org/动漫秀场.png" group-title="SiTV频道",SiTV动漫秀场_4M1080_百视通
 http://167.234.221.213:50001/5000000002000023636/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://logo.doube.eu.org/动漫秀场.png" group-title="SiTV频道",SiTV动漫秀场_2.5M576_湖南bblive
