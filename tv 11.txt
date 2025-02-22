@@ -113,6 +113,24 @@ BTV-重温经典,http://192.168.2.11:35455/bptv/10000100000000050000000003887494
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
+上海,#genre#
+
+上海东方卫视,http://la1.wqwqwq.sbs/itv/6000000001000003639.m3u8?cdn=wasusyt
+上海东方卫视-50-FPS,http://la1.wqwqwq.sbs/itv/5000000004000014098.m3u8?cdn=bestzb
+上海东方卫视-HEVC,http://la1.wqwqwq.sbs/itv/1000000005000265018.m3u8?cdn=ystenlive
+上海-ICS-外语,http://la1.wqwqwq.sbs/itv/5000000010000030951.m3u8?cdn=bestzb
+上海第一财经,http://la1.wqwqwq.sbs/itv/5000000010000027146.m3u8?cdn=bestzb
+上海东方财经,http://la1.wqwqwq.sbs/itv/5000000007000010003.m3u8?cdn=bestzb
+上海东方影视,http://la1.wqwqwq.sbs/itv/5000000010000032212.m3u8?cdn=bestzb
+上海都市,http://la1.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
+上海法治天地,http://la1.wqwqwq.sbs/itv/2000000002000000014.m3u8?cdn=hnbblive
+上海哈哈炫动,http://la1.wqwqwq.sbs/itv/5000000011000031123.m3u8?cdn=bestzb
+上海纪实人文-50-FPS,http://la1.wqwqwq.sbs/itv/5000000004000010282.m3u8?cdn=bestzb
+上海纪实人文-HEVC,http://la1.wqwqwq.sbs/itv/1000000005000265021.m3u8?cdn=ystenlive
+上海五星体育,http://la1.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
+上海新闻综合,http://la1.wqwqwq.sbs/itv/5000000011000031110.m3u8?cdn=bestzb
+
+
 咪咕体育,#genre#
 
 咪咕视频_8M1080_咪视通-1,http://la1.wqwqwq.sbs/itv/3000000001000005308.m3u8?cdn=FifastbLive
