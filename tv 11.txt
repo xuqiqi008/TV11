@@ -115,105 +115,169 @@ BTV-重温经典,http://192.168.2.11:35455/bptv/10000100000000050000000003887494
 
 上海,#genre#
 
-上海东方卫视,http://la1.wqwqwq.sbs/itv/6000000001000003639.m3u8?cdn=wasusyt
-上海东方卫视-50-FPS,http://la1.wqwqwq.sbs/itv/5000000004000014098.m3u8?cdn=bestzb
-上海东方卫视-HEVC,http://la1.wqwqwq.sbs/itv/1000000005000265018.m3u8?cdn=ystenlive
-上海-ICS-外语,http://la1.wqwqwq.sbs/itv/5000000010000030951.m3u8?cdn=bestzb
-上海第一财经,http://la1.wqwqwq.sbs/itv/5000000010000027146.m3u8?cdn=bestzb
-上海东方财经,http://la1.wqwqwq.sbs/itv/5000000007000010003.m3u8?cdn=bestzb
-上海东方影视,http://la1.wqwqwq.sbs/itv/5000000010000032212.m3u8?cdn=bestzb
-上海都市,http://la1.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
-上海法治天地,http://la1.wqwqwq.sbs/itv/2000000002000000014.m3u8?cdn=hnbblive
-上海哈哈炫动,http://la1.wqwqwq.sbs/itv/5000000011000031123.m3u8?cdn=bestzb
-上海纪实人文-50-FPS,http://la1.wqwqwq.sbs/itv/5000000004000010282.m3u8?cdn=bestzb
-上海纪实人文-HEVC,http://la1.wqwqwq.sbs/itv/1000000005000265021.m3u8?cdn=ystenlive
-上海五星体育,http://la1.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
-上海新闻综合,http://la1.wqwqwq.sbs/itv/5000000011000031110.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-logo="https://logo.doube.eu.org/上海ICS外语.png" group-title="卫视频道",上海ICS外语_4M1080_百视通
+http://167.234.221.213:50001/5000000010000030951/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-logo="https://logo.doube.eu.org/上海ICS外语.png" group-title="卫视频道",上海ICS外语_2.5M720_湖南bblive
+http://167.234.221.213:50001/2000000002000000001/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://logo.doube.eu.org/第一财经.png" group-title="卫视频道",上海第一财经_4M1080_百视通
+http://167.234.221.213:50001/5000000010000027146/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://logo.doube.eu.org/第一财经.png" group-title="卫视频道",上海第一财经_2.5M720_湖南bblive
+http://167.234.221.213:50001/2000000002000000004/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://logo.doube.eu.org/东方财经.png" group-title="卫视频道",上海东方财经_6.8M1080_百视通
+http://167.234.221.213:50001/5000000007000010003/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://logo.doube.eu.org/东方财经.png" group-title="卫视频道",上海东方财经_6.8M1080_湖南bblive
+http://167.234.221.213:50001/2000000002000000090/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://logo.doube.eu.org/东方卫视.png" group-title="卫视频道",上海东方卫视_8M1080_百视通
+http://167.234.221.213:50001/5000000004000014098/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://logo.doube.eu.org/东方卫视.png" group-title="卫视频道",上海东方卫视_8M1080_华数
+http://167.234.221.213:50001/6000000001000003639/wasusyt/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://logo.doube.eu.org/东方卫视.png" group-title="卫视频道",上海东方卫视_8M1080_易视腾
+http://167.234.221.213:50001/1000000001000005866/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://logo.doube.eu.org/东方卫视.png" group-title="卫视频道",上海东方卫视_5.5M1080HEVC_易视腾
+http://167.234.221.213:50001/1000000005000265018/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://logo.doube.eu.org/东方卫视.png" group-title="卫视频道",上海东方卫视_4M1080_百视通
+http://167.234.221.213:50001/5000000010000032246/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://logo.doube.eu.org/东方卫视.png" group-title="卫视频道",上海东方卫视_4M1080_易视腾
+http://167.234.221.213:50001/1000000001000030202/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://logo.doube.eu.org/东方卫视.png" group-title="卫视频道",上海东方卫视_2M720_湖南bblive
+http://167.234.221.213:50001/2000000002000000056/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://logo.doube.eu.org/上海东方影视.png" group-title="卫视频道",上海东方影视_4M1080_百视通
+http://167.234.221.213:50001/5000000010000032212/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://logo.doube.eu.org/上海东方影视.png" group-title="卫视频道",上海东方影视_2.5M720_湖南bblive
+http://167.234.221.213:50001/2000000002000000013/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://logo.doube.eu.org/上海都市.png" group-title="卫视频道",上海都市_4M1080_百视通
+http://167.234.221.213:50001/5000000010000018926/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://logo.doube.eu.org/上海都市.png" group-title="卫视频道",上海都市_2.5M720_湖南bblive
+http://167.234.221.213:50001/2000000002000000012/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://logo.doube.eu.org/法治天地.png" group-title="卫视频道",上海法治天地_7M1080_湖南bblive
+http://167.234.221.213:50001/2000000002000000014/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://logo.doube.eu.org/哈哈炫动.png" group-title="卫视频道",上海哈哈炫动_7M1080_百视通
+http://167.234.221.213:50001/5000000011000031123/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://logo.doube.eu.org/哈哈炫动.png" group-title="卫视频道",上海哈哈炫动_4M1080_百视通
+http://167.234.221.213:50001/5000000005000031641/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://logo.doube.eu.org/哈哈炫动.png" group-title="卫视频道",上海哈哈炫动_4M576_易视腾
+http://167.234.221.213:50001/1000000002000000172/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://logo.doube.eu.org/纪实人文.png" group-title="卫视频道",上海纪实人文_8M1080_易视腾
+http://167.234.221.213:50001/1000000001000016545/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://logo.doube.eu.org/纪实人文.png" group-title="卫视频道",上海纪实人文_7M1080_百视通
+http://167.234.221.213:50001/5000000004000010282/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://logo.doube.eu.org/纪实人文.png" group-title="卫视频道",上海纪实人文_5.5M1080HEVC_易视腾
+http://167.234.221.213:50001/1000000005000265021/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://logo.doube.eu.org/纪实人文.png" group-title="卫视频道",上海纪实人文_4M1080_百视通
+http://167.234.221.213:50001/5000000001000021713/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://logo.doube.eu.org/纪实人文.png" group-title="卫视频道",上海纪实人文_4M1080_易视腾
+http://167.234.221.213:50001/1000000001000010606/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://logo.doube.eu.org/上海五星体育.png" group-title="卫视频道",上海五星体育_4M1080_百视通
+http://167.234.221.213:50001/5000000010000017540/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://logo.doube.eu.org/上海五星体育.png" group-title="卫视频道",上海五星体育_2.5M720_湖南bblive
+http://167.234.221.213:50001/2000000002000000007/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://logo.doube.eu.org/上海新闻综合.png" group-title="卫视频道",上海新闻综合_7M1080_百视通
+http://167.234.221.213:50001/5000000011000031110/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://logo.doube.eu.org/上海新闻综合.png" group-title="卫视频道",上海新闻综合_2.5M576_湖南bblive
+http://167.234.221.213:50001/2000000002000000005/hnbblive/index.m3u8
 
 
-咪咕体育,#genre#
 
-咪咕视频_8M1080_咪视通-1,http://la1.wqwqwq.sbs/itv/3000000001000005308.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-2,http://la1.wqwqwq.sbs/itv/3000000001000005969.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-3,http://la1.wqwqwq.sbs/itv/3000000001000007218.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-4,http://la1.wqwqwq.sbs/itv/3000000001000008001.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-5,http://la1.wqwqwq.sbs/itv/3000000001000008176.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-6,http://la1.wqwqwq.sbs/itv/3000000001000008379.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-7,http://la1.wqwqwq.sbs/itv/3000000001000010129.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-8,http://la1.wqwqwq.sbs/itv/3000000001000010948.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-9,http://la1.wqwqwq.sbs/itv/3000000001000028638.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-10,http://la1.wqwqwq.sbs/itv/3000000001000031494.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-11,http://la1.wqwqwq.sbs/itv/3000000010000005837.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-12,http://la1.wqwqwq.sbs/itv/3000000020000011518.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-13,http://la1.wqwqwq.sbs/itv/3000000020000011519.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-14,http://la1.wqwqwq.sbs/itv/3000000020000011520.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-15,http://la1.wqwqwq.sbs/itv/3000000020000011521.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-16,http://la1.wqwqwq.sbs/itv/3000000020000011522.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-17,http://la1.wqwqwq.sbs/itv/3000000020000011523.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-18,http://la1.wqwqwq.sbs/itv/3000000020000011524.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-19,http://la1.wqwqwq.sbs/itv/3000000020000011525.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-20,http://la1.wqwqwq.sbs/itv/3000000020000011528.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-21,http://la1.wqwqwq.sbs/itv/3000000020000011529.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-22,http://la1.wqwqwq.sbs/itv/3000000020000011530.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-23,http://la1.wqwqwq.sbs/itv/3000000020000011531.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-24,http://la1.wqwqwq.sbs/itv/3000000010000000097.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-25,http://la1.wqwqwq.sbs/itv/3000000010000002019.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-26,http://la1.wqwqwq.sbs/itv/3000000010000002809.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-27,http://la1.wqwqwq.sbs/itv/3000000010000003915.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-28,http://la1.wqwqwq.sbs/itv/3000000010000004193.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-29,http://la1.wqwqwq.sbs/itv/3000000010000006077.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-30,http://la1.wqwqwq.sbs/itv/3000000010000006658.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-31,http://la1.wqwqwq.sbs/itv/3000000010000009788.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-32,http://la1.wqwqwq.sbs/itv/3000000010000010833.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-33,http://la1.wqwqwq.sbs/itv/3000000010000011297.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-34,http://la1.wqwqwq.sbs/itv/3000000010000011518.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-35,http://la1.wqwqwq.sbs/itv/3000000010000012558.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-36,http://la1.wqwqwq.sbs/itv/3000000010000012616.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-37,http://la1.wqwqwq.sbs/itv/3000000010000015470.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-38,http://la1.wqwqwq.sbs/itv/3000000010000015560.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-39,http://la1.wqwqwq.sbs/itv/3000000010000017678.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-40,http://la1.wqwqwq.sbs/itv/3000000010000019839.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-41,http://la1.wqwqwq.sbs/itv/3000000010000021904.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-42,http://la1.wqwqwq.sbs/itv/3000000010000023434.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-43,http://la1.wqwqwq.sbs/itv/3000000010000025380.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-44,http://la1.wqwqwq.sbs/itv/3000000010000027691.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-45,http://la1.wqwqwq.sbs/itv/3000000010000031669.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_湖南bblive-1,http://la1.wqwqwq.sbs/itv/2000000003000000060.m3u8?cdn=hnbblive
-咪咕视频_8M1080_湖南bblive-2,http://la1.wqwqwq.sbs/itv/2000000003000000061.m3u8?cdn=hnbblive
-咪咕视频_8M1080_湖南bblive-3,http://la1.wqwqwq.sbs/itv/2000000003000000062.m3u8?cdn=hnbblive
-咪咕视频_8M1080_湖南bblive-4,http://la1.wqwqwq.sbs/itv/2000000003000000063.m3u8?cdn=hnbblive
-咪咕视频_8M1080_湖南bblive-5,http://la1.wqwqwq.sbs/itv/2000000003000000064.m3u8?cdn=hnbblive
-咪咕视频_8M1080_湖南bblive-6,http://la1.wqwqwq.sbs/itv/2000000003000000065.m3u8?cdn=hnbblive
-咪咕视频_8M1080_易视腾-1,http://la1.wqwqwq.sbs/itv/1000000006000270001.m3u8?cdn=ystenlive
-咪咕视频_8M1080_易视腾-2,http://la1.wqwqwq.sbs/itv/1000000006000270002.m3u8?cdn=ystenlive
-咪咕视频_8M1080_易视腾-3,http://la1.wqwqwq.sbs/itv/1000000006000270003.m3u8?cdn=ystenlive
-咪咕视频_8M1080_易视腾-4,http://la1.wqwqwq.sbs/itv/1000000006000270004.m3u8?cdn=ystenlive
-咪咕视频_8M1080_易视腾-5,http://la1.wqwqwq.sbs/itv/1000000006000270005.m3u8?cdn=ystenlive
-咪咕视频_8M1080_易视腾-6,http://la1.wqwqwq.sbs/itv/1000000006000270006.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_8M1080_咪视通
+http://167.234.221.213:50001/3000000020000011528/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_8M1080_咪视通
+http://167.234.221.213:50001/3000000020000011529/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_8M1080_咪视通
+http://167.234.221.213:50001/3000000020000011530/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_8M1080_咪视通
+http://167.234.221.213:50001/3000000020000011531/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_8M1080_湖南bblive
+http://167.234.221.213:50001/2000000003000000060/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_8M1080_湖南bblive
+http://167.234.221.213:50001/2000000003000000061/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_8M1080_湖南bblive
+http://167.234.221.213:50001/2000000003000000062/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_8M1080_湖南bblive
+http://167.234.221.213:50001/2000000003000000063/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_8M1080_湖南bblive
+http://167.234.221.213:50001/2000000003000000064/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_8M1080_湖南bblive
+http://167.234.221.213:50001/2000000003000000065/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_8M1080_易视腾
+http://167.234.221.213:50001/1000000006000270001/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_8M1080_易视腾
+http://167.234.221.213:50001/1000000006000270002/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_8M1080_易视腾
+http://167.234.221.213:50001/1000000006000270003/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_8M1080_易视腾
+http://167.234.221.213:50001/1000000006000270004/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_8M1080_易视腾
+http://167.234.221.213:50001/1000000006000270005/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_8M1080_易视腾
+http://167.234.221.213:50001/1000000006000270006/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000000097/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000002019/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000002809/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000003915/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000004193/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000006077/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000006658/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000009788/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000010833/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000011297/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000011518/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000012558/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000012616/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000015470/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000015560/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000017678/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000019839/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000021904/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000023434/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000025380/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+http://167.234.221.213:50001/3000000010000027691/FifastbLive/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://logo.doube.eu.org/咪咕视频.png" group-title="咪咕频道",咪咕视频_5M1080_咪视通
+
 斗鱼一起看,#genre#
 
- 柒姐yyds,http://192.168.2.11:35455/douyu/8690653
- 只给胸小的送礼物,http://192.168.2.11:35455/douyu/9644599
- baby丶贝贝,http://192.168.2.11:35455/douyu/431460
- 蒲蚂蚱,http://192.168.2.11:35455/douyu/6079455
- 深夜D你学当官,http://192.168.2.11:35455/douyu/12434419
- 精彩短剧看不停,http://192.168.2.11:35455/douyu/11824307
- 深夜D你练神功,http://192.168.2.11:35455/douyu/12421816
- 深夜D你上高速,http://192.168.2.11:35455/douyu/7882691
- 菠萝屋SpongeBob,http://192.168.2.11:35455/douyu/12400977
- 有一辆立标奔驰,http://192.168.2.11:35455/douyu/12442176
- 周杰伦颜老师,http://192.168.2.11:35455/douyu/7537296
- 龍組队长天昊,http://192.168.2.11:35455/douyu/1487654
- Poison丶冰冰,http://192.168.2.11:35455/douyu/74374
- 江边五哥,http://192.168.2.11:35455/douyu/12447123
- 竹叶的熊猫,http://192.168.2.11:35455/douyu/3870925
- 粤语电影丶,http://192.168.2.11:35455/douyu/1226741
- 吃奶滴虫,http://192.168.2.11:35455/douyu/263824
- 红歌汇直播间,http://192.168.2.11:35455/douyu/12430563
- 刘少丶7012,http://192.168.2.11:35455/douyu/131977
- 当燕双鹰遇见李元芳,http://192.168.2.11:35455/douyu/3439096
- 晓晓666666,http://192.168.2.11:35455/douyu/426517
- makimaning,http://192.168.2.11:35455/douyu/12432399
+柒姐yyds,http://192.168.2.11:35455/douyu/8690653
+只给胸小的送礼物,http://192.168.2.11:35455/douyu/9644599
+baby丶贝贝,http://192.168.2.11:35455/douyu/431460
+蒲蚂蚱,http://192.168.2.11:35455/douyu/6079455
+深夜D你学当官,http://192.168.2.11:35455/douyu/12434419
+精彩短剧看不停,http://192.168.2.11:35455/douyu/11824307
+深夜D你练神功,http://192.168.2.11:35455/douyu/12421816
+深夜D你上高速,http://192.168.2.11:35455/douyu/7882691
+菠萝屋SpongeBob,http://192.168.2.11:35455/douyu/12400977
+有一辆立标奔驰,http://192.168.2.11:35455/douyu/12442176
+周杰伦颜老师,http://192.168.2.11:35455/douyu/7537296
+龍組队长天昊,http://192.168.2.11:35455/douyu/1487654
+Poison丶冰冰,http://192.168.2.11:35455/douyu/74374
+江边五哥,http://192.168.2.11:35455/douyu/12447123
+竹叶的熊猫,http://192.168.2.11:35455/douyu/3870925
+粤语电影丶,http://192.168.2.11:35455/douyu/1226741
+吃奶滴虫,http://192.168.2.11:35455/douyu/263824
+红歌汇直播间,http://192.168.2.11:35455/douyu/12430563
+刘少丶7012,http://192.168.2.11:35455/douyu/131977
+当燕双鹰遇见李元芳,http://192.168.2.11:35455/douyu/3439096
+晓晓666666,http://192.168.2.11:35455/douyu/426517
+makimaning,http://192.168.2.11:35455/douyu/12432399
  Only丶邵氏,http://192.168.2.11:35455/douyu/4246519
  卖女孩滴小姑凉,http://192.168.2.11:35455/douyu/922564
  当幽兰剑遇上链子刀,http://192.168.2.11:35455/douyu/6027991
@@ -232,19 +296,19 @@ BTV-重温经典,http://192.168.2.11:35455/bptv/10000100000000050000000003887494
  苹果Zei甜,http://192.168.2.11:35455/douyu/1174353
  智仗心,http://192.168.2.11:35455/douyu/5635000
  名侦探柯南之银色子弹,http://192.168.2.11:35455/douyu/6484910
- 永远快乐的小美女,http://192.168.2.11:35455/douyu/6091425
- 时光再遇见,http://192.168.2.11:35455/douyu/4944033
- 702放映厅,http://192.168.2.11:35455/douyu/10348728
- gslaini,http://192.168.2.11:35455/douyu/6997954
- 我的李青插眼不w,http://192.168.2.11:35455/douyu/12437542
- 十七岁的道姑,http://192.168.2.11:35455/douyu/3186217
- 喷子OAO,http://192.168.2.11:35455/douyu/7253343
- 菠萝屋的海绵宝宝,http://192.168.2.11:35455/douyu/3949681
- 豆腐芭比,http://192.168.2.11:35455/douyu/6478650
- 牛奶味的梦猪猪,http://192.168.2.11:35455/douyu/5261342
- 飘洋过海来,http://192.168.2.11:35455/douyu/9548850
- 追剧凌宝,http://192.168.2.11:35455/douyu/7119207
- 米尼影院,http://192.168.2.11:35455/douyu/7642724
+永远快乐的小美女,http://192.168.2.11:35455/douyu/6091425
+时光再遇见,http://192.168.2.11:35455/douyu/4944033
+702放映厅,http://192.168.2.11:35455/douyu/10348728
+gslaini,http://192.168.2.11:35455/douyu/6997954
+我的李青插眼不w,http://192.168.2.11:35455/douyu/12437542
+十七岁的道姑,http://192.168.2.11:35455/douyu/3186217
+喷子OAO,http://192.168.2.11:35455/douyu/7253343
+菠萝屋的海绵宝宝,http://192.168.2.11:35455/douyu/3949681
+豆腐芭比,http://192.168.2.11:35455/douyu/6478650
+牛奶味的梦猪猪,http://192.168.2.11:35455/douyu/5261342
+飘洋过海来,http://192.168.2.11:35455/douyu/9548850
+追剧凌宝,http://192.168.2.11:35455/douyu/7119207
+米尼影院,http://192.168.2.11:35455/douyu/7642724
  成龙历险纪,http://192.168.2.11:35455/douyu/2287949
  苹果Zei妖,http://192.168.2.11:35455/douyu/2793084
  奇光主播e,http://192.168.2.11:35455/douyu/11849873
