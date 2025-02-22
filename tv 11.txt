@@ -116,52 +116,15 @@ BTV-重温经典,http://192.168.2.11:35455/bptv/10000100000000050000000003887494
 上海,#genre#
 
 
-动漫秀场http://167.234.221.213:50001/5000000011000031113/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://logo.doube.eu.org/动漫秀场.png" group-title="SiTV频道",SiTV动漫秀场_4M1080_百视通
-http://167.234.221.213:50001/5000000002000023636/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://logo.doube.eu.org/动漫秀场.png" group-title="SiTV频道",SiTV动漫秀场_2.5M576_湖南bblive
-http://167.234.221.213:50001/2000000002000000009/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://logo.doube.eu.org/都市剧场.png" group-title="SiTV频道",SiTV都市剧场_7M1080_百视通
-http://167.234.221.213:50001/5000000011000031111/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://logo.doube.eu.org/都市剧场.png" group-title="SiTV频道",SiTV都市剧场_4M1080_百视通
-http://167.234.221.213:50001/5000000002000004412/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://logo.doube.eu.org/都市剧场.png" group-title="SiTV频道",SiTV都市剧场_2.5M576_湖南bblive
-http://167.234.221.213:50001/2000000002000000015/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://logo.doube.eu.org/法治天地.png" group-title="SiTV频道",SiTV法治天地_7M1080_百视通
-http://167.234.221.213:50001/9001547084732463424/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://logo.doube.eu.org/欢笑剧场.png" group-title="SiTV频道",SiTV欢笑剧场_4M1080_百视通
-http://167.234.221.213:50001/5000000002000009455/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://logo.doube.eu.org/欢笑剧场.png" group-title="SiTV频道",SiTV欢笑剧场_3.5M1080_湖南bblive
-http://167.234.221.213:50001/2000000002000000016/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://logo.doube.eu.org/金色学堂.png" group-title="SiTV频道",SiTV金色学堂_7M1080_百视通
-http://167.234.221.213:50001/5000000010000026105/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://logo.doube.eu.org/金色学堂.png" group-title="SiTV频道",SiTV金色学堂_7M1080_湖南bblive
-http://167.234.221.213:50001/2000000002000000061/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://logo.doube.eu.org/劲爆体育.png" group-title="SiTV频道",SiTV劲爆体育_4M1080_百视通
-http://167.234.221.213:50001/5000000002000029972/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://logo.doube.eu.org/劲爆体育.png" group-title="SiTV频道",SiTV劲爆体育_1.2M540_湖南bblive
-http://167.234.221.213:50001/2000000002000000008/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://logo.doube.eu.org/乐游.png" group-title="SiTV频道",SiTV乐游_7M1080_百视通
-http://167.234.221.213:50001/5000000011000031112/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://logo.doube.eu.org/乐游.png" group-title="SiTV频道",SiTV乐游_7M1080_湖南bblive
-http://167.234.221.213:50001/2000000002000000092/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://logo.doube.eu.org/乐游.png" group-title="SiTV频道",SiTV乐游_4M1080_百视通
-http://167.234.221.213:50001/5000000006000040025/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://logo.doube.eu.org/乐游.png" group-title="SiTV频道",SiTV乐游_1.2M576_湖南bblive
-http://167.234.221.213:50001/2000000002000000059/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://logo.doube.eu.org/魅力足球.png" group-title="SiTV频道",SiTV魅力足球_7M1080_百视通
-http://167.234.221.213:50001/5000000011000031207/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://logo.doube.eu.org/魅力足球.png" group-title="SiTV频道",SiTV魅力足球_7M1080_湖南bblive
-http://167.234.221.213:50001/2000000002000000068/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://logo.doube.eu.org/七彩戏剧.png" group-title="SiTV频道",SiTV七彩戏剧_7M1080_百视通
-http://167.234.221.213:50001/5000000011000031116/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://logo.doube.eu.org/七彩戏剧.png" group-title="SiTV频道",SiTV七彩戏剧_7M1080_湖南bblive
-http://167.234.221.213:50001/2000000002000000010/hnbblive/index.m3u8
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://logo.doube.eu.org/生活时尚.png" group-title="SiTV频道",SiTV生活时尚_4M1080_百视通
-http://167.234.221.213:50001/5000000002000019634/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://logo.doube.eu.org/生活时尚.png" group-title="SiTV频道",SiTV生活时尚_2.5M720_湖南bblive
-http://167.234.221.213:50001/2000000002000000006/hnbblive/index.m3u8
-
+动漫秀场，http://167.234.221.213:50001/5000000002000023636/bestzb/index.m3u8
+都市剧场，http://167.234.221.213:50001/5000000011000031111/bestzb/index.m3u8
+法制天地，http://167.234.221.213:50001/9001547084732463424/bestzb/index.m3u8
+欢笑剧场，http://167.234.221.213:50001/5000000002000009455/bestzb/index.m3u8
+金色学堂，http://167.234.221.213:50001/5000000010000026105/bestzb/index.m3u8
+劲爆体育，http://167.234.221.213:50001/5000000002000029972/bestzb/index.m3u8
+乐游，http://167.234.221.213:50001/5000000011000031112/bestzb/index.m3u8
+魅力足球，http://167.234.221.213:50001/5000000011000031207/bestzb/index.m3u8
+生活时尚，http://167.234.221.213:50001/5000000002000019634/bestzb/index.m3u8
 
 
 咪咕体育,#genre#
