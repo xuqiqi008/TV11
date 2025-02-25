@@ -1,5 +1,7 @@
 4K8k频道,#genre#
 
+北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+cctv8k_36m,http://192.168.2.11:35455/gaoma/cctv8k_36m.m3u8
 CCTV-16-4K-HEVC,http://192.168.2.11:35455/itv/5000000008000023254.m3u8?cdn=bestzb
 cctv164k_10m,http://192.168.2.11:35455/gaoma/cctv4k16_10m.m3u8
 cctv164k,http://192.168.2.11:35455/gaoma/cctv4k16.m3u8
@@ -16,8 +18,8 @@ Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 SiTV-欢笑剧场-4K,http://192.168.2.11:35455/itv/5000000007000010001.m3u8?cdn=bestzb
-北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-cctv8k_36m,http://192.168.2.11:35455/gaoma/cctv8k_36m.m3u8
+
+
 
 央视,#genre#
 
@@ -100,6 +102,11 @@ cgtnsp-高码,http://192.168.2.11:35455/gaoma/cgtnsp.m3u8
 湖南卫视,http://192.168.2.11:35455/itv/5000000004000006692.m3u8?cdn=bestzb
 湖南卫视-50-FPS,http://192.168.2.11:35455/itv/6000000001000018044.m3u8?cdn=wasusyt
 湖南卫视-HEVC,http://192.168.2.11:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
+北京卫视,http://192.168.2.11:35455/itv/6000000001000020451.m3u8?cdn=wasusyt
+北京卫视-HEVC,http://192.168.2.11:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
+安徽卫视,http://192.168.2.11:35455/itv/1000000001000030159.m3u8?cdn=ystenlive
+安徽卫视-50-FPS,http://192.168.2.11:35455/itv/6000000001000009954.m3u8?cdn=wasusyt
+安徽卫视-HEVC,http://192.168.2.11:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
 东南卫视,http://192.168.2.11:35455/itv/5000000004000010584.m3u8?cdn=bestzb
 东南卫视-HEVC,http://192.168.2.11:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
 广西卫视,http://192.168.2.11:35455/itv/5000000011000031118.m3u8?cdn=bestzb
@@ -109,17 +116,19 @@ cgtnsp-高码,http://192.168.2.11:35455/gaoma/cgtnsp.m3u8
 天津卫视,http://192.168.2.11:35455/itv/5000000004000006827.m3u8?cdn=bestzb
 天津卫视-50-FPS,http://192.168.2.11:35455/itv/6000000001000009186.m3u8?cdn=wasusyt
 天津卫视-HEVC,http://192.168.2.11:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
-甘肃卫视,http://192.168.2.11:35455/itv/5000000011000031121.m3u8?cdn=bestzb
+江苏卫视-50-FPS,http://192.168.2.11:35455/itv/6000000001000014861.m3u8?cdn=wasusyt
+江苏卫视,http://192.168.2.11:35455/itv/1000000001000001828.m3u8?cdn=ystenlive
+江苏卫视-HEVC,http://192.168.2.11:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
+辽宁卫视,http://192.168.2.11:35455/itv/5000000004000011671.m3u8?cdn=bestzb
+辽宁卫视-HEVC,http://192.168.2.11:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
 广东卫视,http://192.168.2.11:35455/itv/1000000001000014176.m3u8?cdn=ystenlive
 广东卫视-50-FPS,http://192.168.2.11:35455/itv/6000000001000031076.m3u8?cdn=wasusyt
 广东卫视-HEVC,http://192.168.2.11:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
+甘肃卫视,http://192.168.2.11:35455/itv/5000000011000031121.m3u8?cdn=bestzb
 贵州卫视,http://192.168.2.11:35455/itv/5000000004000025843.m3u8?cdn=bestzb
 海南卫视,http://192.168.2.11:35455/itv/5000000004000006211.m3u8?cdn=bestzb
 河北卫视,http://192.168.2.11:35455/itv/5000000006000040016.m3u8?cdn=bestzb
 河南卫视,http://192.168.2.11:35455/itv/5000000011000031119.m3u8?cdn=bestzb
-安徽卫视,http://192.168.2.11:35455/itv/1000000001000030159.m3u8?cdn=ystenlive
-安徽卫视-50-FPS,http://192.168.2.11:35455/itv/6000000001000009954.m3u8?cdn=wasusyt
-安徽卫视-HEVC,http://192.168.2.11:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
 黑龙江卫视,http://192.168.2.11:35455/itv/1000000001000001925.m3u8?cdn=ystenlive
 黑龙江卫视-50-FPS,http://192.168.2.11:35455/itv/6000000001000016510.m3u8?cdn=wasusyt
 黑龙江卫视-HEVC,http://192.168.2.11:35455/itv/1000000005000265029.m3u8?cdn=ystenlive
@@ -127,13 +136,8 @@ cgtnsp-高码,http://192.168.2.11:35455/gaoma/cgtnsp.m3u8
 湖北卫视-50-FPS,http://192.168.2.11:35455/itv/6000000001000015436.m3u8?cdn=wasusyt
 湖北卫视-HEVC,http://192.168.2.11:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
 吉林卫视,http://192.168.2.11:35455/itv/5000000011000031117.m3u8?cdn=bestzb
-江苏卫视-50-FPS,http://192.168.2.11:35455/itv/6000000001000014861.m3u8?cdn=wasusyt
-江苏卫视,http://192.168.2.11:35455/itv/1000000001000001828.m3u8?cdn=ystenlive
-江苏卫视-HEVC,http://192.168.2.11:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
 江西卫视,http://192.168.2.11:35455/itv/1000000006000268001.m3u8?cdn=ystenlive
 江西卫视-HEVC,http://192.168.2.11:35455/itv/1000000005000265032.m3u8?cdn=ystenlive
-辽宁卫视,http://192.168.2.11:35455/itv/5000000004000011671.m3u8?cdn=bestzb
-辽宁卫视-HEVC,http://192.168.2.11:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
 青海卫视,http://192.168.2.11:35455/itv/1000000002000013359.m3u8?cdn=ystenlive
 山东卫视,http://192.168.2.11:35455/itv/1000000001000016568.m3u8?cdn=ystenlive
 山东卫视-50-FPS,http://192.168.2.11:35455/itv/6000000001000004134.m3u8?cdn=wasusyt
@@ -143,12 +147,24 @@ cgtnsp-高码,http://192.168.2.11:35455/gaoma/cgtnsp.m3u8
 重庆卫视,http://192.168.2.11:35455/itv/1000000001000001096.m3u8?cdn=ystenlive
 重庆卫视-HEVC,http://192.168.2.11:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
 
+上海,#genre#
+
+上海-ICS-外语,http://192.168.2.11:35455/itv/5000000010000030951.m3u8?cdn=bestzb
+上海第一财经,http://192.168.2.11:35455/itv/5000000010000027146.m3u8?cdn=bestzb
+上海东方财经,http://192.168.2.11:35455/itv/5000000007000010003.m3u8?cdn=bestzb
+上海东方影视,http://192.168.2.11:35455/itv/5000000010000032212.m3u8?cdn=bestzb
+上海都市,http://192.168.2.11:35455/itv/5000000010000018926.m3u8?cdn=bestzb
+上海法治天地,http://192.168.2.11:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
+上海哈哈炫动,http://192.168.2.11:35455/itv/5000000011000031123.m3u8?cdn=bestzb
+上海纪实人文-50-FPS,http://192.168.2.11:35455/itv/5000000004000010282.m3u8?cdn=bestzb
+上海纪实人文-HEVC,http://192.168.2.11:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
+上海五星体育,http://192.168.2.11:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+上海新闻综合,http://192.168.2.11:35455/itv/5000000011000031110.m3u8?cdn=bestzb
+
 
 
 北京,#genre#
 
-北京卫视,http://192.168.2.11:35455/itv/6000000001000020451.m3u8?cdn=wasusyt
-北京卫视-HEVC,http://192.168.2.11:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
 北京纪实科教,http://192.168.2.11:35455/itv/1000000001000001910.m3u8?cdn=ystenlive
 北京纪实科教-HEVC,http://192.168.2.11:35455/itv/1000000005000265020.m3u8?cdn=ystenlive
 北京卡酷少儿,http://192.168.2.11:35455/itv/5000000011000265008.m3u8?cdn=bestzb
@@ -160,6 +176,7 @@ BTV-重温经典,http://192.168.2.11:35455/bptv/10000100000000050000000003887494
 淘娱乐,http://192.168.2.11:35455/bptv/10000100000000050000000003887499.m3u8
 北京体育休闲,http://192.168.2.11:35455/bptv/10000100000000050000000003870779.m3u8
 北京新闻,http://192.168.2.11:35455/bptv/10000100000000050000000003870780.m3u8
+
 
 浙江,#genre#
 
@@ -184,23 +201,20 @@ BTV-重温经典,http://192.168.2.11:35455/bptv/10000100000000050000000003887494
 上海纪实人文-50-FPS,http://192.168.2.11:35455/itv/5000000004000010282.m3u8?cdn=bestzb
 上海纪实人文-HEVC,http://192.168.2.11:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
 上海五星体育,http://192.168.2.11:35455/itv/5000000010000017540.m3u8?cdn=bestzb
-上海新闻综合,http://192.168.2.11:35455/itv/5000000011000031110.m3u8?cdn=bestzb
-动漫秀场,http://192.168.2.11:35455/itv/5000000011000031113.m3u8?cdn=bestzb
-都市剧场,http://192.168.2.11:35455/itv/5000000011000031111.m3u8?cdn=bestzb
-法治天地,http://192.168.2.11:35455/itv/9001547084732463424.m3u8?cdn=bestzb
-欢笑剧场,http://192.168.2.11:35455/itv/5000000002000009455.m3u8?cdn=bestzb
-金色学堂,http://192.168.2.11:35455/itv/5000000010000026105.m3u8?cdn=bestzb
-劲爆体育,http://192.168.2.11:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-乐游,http://192.168.2.11:35455/itv/5000000011000031112.m3u8?cdn=bestzb
-魅力足球,http://192.168.2.11:35455/itv/5000000011000031207.m3u8?cdn=bestzb
-七彩戏剧,http://192.168.2.11:35455/itv/5000000011000031116.m3u8?cdn=bestzb
-游戏风云,http://192.168.2.11:35455/itv/5000000011000031114.m3u8?cdn=bestzb
+SiTV-动漫秀场,http://192.168.2.11:35455/itv/5000000011000031113.m3u8?cdn=bestzb
+SiTV-都市剧场,http://192.168.2.11:35455/itv/5000000011000031111.m3u8?cdn=bestzb
+SiTV-法治天地,http://192.168.2.11:35455/itv/9001547084732463424.m3u8?cdn=bestzb
+SiTV-欢笑剧场,http://192.168.2.11:35455/itv/5000000002000009455.m3u8?cdn=bestzb
+SiTV-金色学堂,http://192.168.2.11:35455/itv/5000000010000026105.m3u8?cdn=bestzb
+SiTV-劲爆体育,http://192.168.2.11:35455/itv/5000000002000029972.m3u8?cdn=bestzb
+SiTV-乐游,http://192.168.2.11:35455/itv/5000000011000031112.m3u8?cdn=bestzb
+SiTV-魅力足球,http://192.168.2.11:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+SiTV-七彩戏剧,http://192.168.2.11:35455/itv/5000000011000031116.m3u8?cdn=bestzb
+SiTV-生活时尚,http://192.168.2.11:35455/itv/5000000002000019634.m3u8?cdn=bestzb
+SiTV-游戏风云,http://192.168.2.11:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 
 其他,#genre#
 
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
-CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 湖南金鹰纪实,http://192.168.2.11:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 湖南快乐垂钓,http://192.168.2.11:35455/itv/5000000011000031206.m3u8?cdn=bestzb
 湖南茶频道,http://192.168.2.11:35455/itv/5000000011000031209.m3u8?cdn=bestzb
@@ -214,6 +228,7 @@ CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 求索纪录,http://192.168.2.11:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
 求索科学,http://192.168.2.11:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
 求索生活,http://192.168.2.11:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
+
 NEWTV,#genre#
 
 NewTV-精品综合,http://192.168.2.11:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
@@ -246,7 +261,7 @@ NewTV-中国功夫,http://192.168.2.11:35455/itv/2000000003000000009.m3u8?cdn=hn
 NewTV-黑莓电影,http://192.168.2.11:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 NewTV-黑莓动画,http://192.168.2.11:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 NewTV-哒啵电竞,http://192.168.2.11:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
-NewTV-哒啵赛事,http://192.168.2.11:35455/itv/1000000001000003775.m3u8?cdn=ystenliv
+NewTV-哒啵赛事,http://192.168.2.11:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
 
 IHOT,#genre#
 
@@ -5379,3 +5394,8 @@ DJ-席卷风暴音声中文系列串烧,http://em.21dtv.com/songs/60146947.mkv
 顾凯-南无阿弥陀佛,http://em.21dtv.com/songs/60146946.mkv
 顾凯-南无地藏菩萨,http://em.21dtv.com/songs/60146945.mkv
 白玛多吉-梵音大悲咒,http://em.21dtv.com/songs/60146944.mkv
+
+
+
+
+
